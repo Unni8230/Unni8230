@@ -34,10 +34,10 @@ I'm a passionate **web developer** specializing in **ReactJS, Django, and MERN s
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 🚀 Projects
 
-## 📌 Pinned Projects  
-🔹 [Hospital Management System](https://github.com/Unni8230/E_Hospitality) – A Django-based system for managing patient records & appointments 
-🔹 [Job_Portal_Application](https://github.com/Unni8230/Job_Portal) – A React-based Job portal based on jobs api for finding job applications 
+- [Hospital Management System](https://github.com/Unni8230/E_Hospitality) – A Django-based system for managing patient records & appointments 
+- [Job_Portal_Application](https://github.com/Unni8230/Job_Portal) – A React-based Job portal based on jobs api for finding job applications 
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unni8230&show_icons=true&theme=radical)  
