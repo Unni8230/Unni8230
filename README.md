@@ -37,7 +37,8 @@ I'm a passionate **web developer** specializing in **ReactJS, Django, and MERN s
 ### 🚀 Projects
 
 - [Hospital Management System](https://github.com/Unni8230/E_Hospitality) – A Django-based system for managing patient records & appointments 
-- [Job_Portal_Application](https://github.com/Unni8230/Job_Portal) – A React-based Job portal based on jobs api for finding job applications 
+- [Job_Portal_Application](https://github.com/Unni8230/Job_Portal) – A React-based Job portal based on jobs api for finding job applications
+- [Bookhub Application](https://github.com/Unni8230/BookHub) – A React based responsive web app that lets users browse and search books by category, JWT auth, and REST API integration. 
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unni8230&show_icons=true&theme=radical)  
